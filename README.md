@@ -1,3 +1,3 @@
-# MyFirst
-My First Repository
-My name is Chulhyun Moon, and English name is Chad
+# Calculator Library
+
+This is the sample how to use the continous integration through GitHub and CircleCI with python
